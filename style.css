@@ -1,0 +1,23 @@
+.leftside img{
+    height: 100%;
+    width: 100%;
+}
+.rightside{
+    padding-top: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    align-items: center;
+    color: rgb(132, 132, 245);
+    padding-left: 3rem;
+}
+.name{
+    flex-grow: 1;
+    font-weight: 500;
+    font-size: 1.1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
